@@ -1,4 +1,6 @@
 /*
+
+GCD and LCM Problem Code: FLOW016
 Two integers A and B are the inputs. Write a program to find GCD and LCM of A and B.
 
 Input
